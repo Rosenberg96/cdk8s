@@ -3,6 +3,7 @@
   "name": "cdk8s-cli",
   "description": "CDK for Kubernetes CLI",
   "main": "lib/index.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/awslabs/cdk8s.git"

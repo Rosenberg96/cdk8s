@@ -3,6 +3,7 @@
   "name": "cdk8s",
   "description": "Cloud Development Kit for Kubernetes",
   "main": "lib/index.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/awslabs/cdk8s.git"

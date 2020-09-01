@@ -3,6 +3,7 @@
   "name": "cdk8s-plus",
   "description": "High level abstractions on top of cdk8s",
   "main": "lib/index.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/awslabs/cdk8s.git"
